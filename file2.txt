@@ -1,2 +1,2 @@
 location: Erode
-Hobby: travelling, Playing cricket,planting trees,swimming
+Hobby: travelling, Playing cricket,planting trees,swimming,coding
